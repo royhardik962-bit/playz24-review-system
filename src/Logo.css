@@ -1,0 +1,4 @@
+.logo { display: flex; align-items: center; justify-content: center; }
+.logo-svg { width: 160px; height: 62px; display: block; filter: drop-shadow(0 0 6px rgba(34, 232, 255, 0.7)); }
+
+.app-inner { width: 100% !important; max-width: none !important; min-height: 100svh; margin: 0 !important; border: 0 !important; border-radius: 0 !important; box-shadow: none !important; }
